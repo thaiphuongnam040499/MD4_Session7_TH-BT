@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67fd6000-fd79-4d4a-900d-408117d99c31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/java/model/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/java/service/CartServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/java/service/ICartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/java/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/java/service/ProductServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/java/until/ConnectionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/images/Cake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/images/Hamburger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/images/bread.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/images/pizza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/assets/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MD4_SHOPING_CART/src/main/webapp/view/List.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session10/MD4_Session10_TH2_MySqlJDBCTransaction/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session10/MD4_Session10_TH2_MySqlJDBCTransaction/src/main/java/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session10/MD4_Session10_TH2_MySqlJDBCTransaction/src/main/java/service/UserServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session10/MD4_Session10_TH2_MySqlJDBCTransaction/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session8/MD4_Session8_BT1_UngDungQuanLySanPham/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session8/MD4_Session8_BT1_UngDungQuanLySanPham/src/main/java/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session8/MD4_Session8_BT1_UngDungQuanLySanPham/src/main/java/service/ProductServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session8/MD4_Session8_BT1_UngDungQuanLySanPham/src/main/webapp/Product/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session8/MD4_Session8_BT1_UngDungQuanLySanPham/src/main/webapp/Product/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session8/MD4_Session8_BT1_UngDungQuanLySanPham/src/main/webapp/Product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session8/MD4_Session8_BT1_UngDungQuanLySanPham/src/main/webapp/Product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session8/MD4_Session8_BT1_UngDungQuanLySanPham/src/main/webapp/Product/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session9/MD4_Session9_TH1_QuanLyUserSuDungJSP-Servlet-JDBC-MySQL/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session9/MD4_Session9_TH1_QuanLyUserSuDungJSP-Servlet-JDBC-MySQL/src/main/java/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session9/MD4_Session9_TH1_QuanLyUserSuDungJSP-Servlet-JDBC-MySQL/src/main/java/service/UserServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session9/MD4_Session9_TH1_QuanLyUserSuDungJSP-Servlet-JDBC-MySQL/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session9/MD4_Session9_TH1_QuanLyUserSuDungJSP-Servlet-JDBC-MySQL/src/main/webapp/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session9/MD4_Session9_TH1_QuanLyUserSuDungJSP-Servlet-JDBC-MySQL/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session4" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session5" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session6" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD4_Session7_BT2_UngDungCalculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MD4_Session7_BT2_UngDungCalculator/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OwUEu2bDgDKAnhkEnHX84Lnzue" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MD4_MYSQL/Session8/MD4_Session8_TH1_customer-management&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.74" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.74" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Gradle : com.example : MD4_Session8_TH1_customer-management-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Gradle___com_example___MD4_Session8_TH1_customer_management_1_0_SNAPSHOT_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="d81b70fb-eddd-4060-b2d1-b1c7f6d773e9" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.example : MD4_Session8_TH1_customer-management-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67fd6000-fd79-4d4a-900d-408117d99c31" name="Changes" comment="" />
+      <created>1682471031026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682471031026</updated>
+      <workItem from="1682471032247" duration="4938000" />
+      <workItem from="1682476231398" duration="101000" />
+      <workItem from="1683100282044" duration="25000" />
+      <workItem from="1683167032813" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
